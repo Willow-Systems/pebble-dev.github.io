@@ -41,3 +41,5 @@ sass:
 plugins:
 - jekyll-paginate
 - jemoji
+
+theme: jekyll-theme-slate
